@@ -70,7 +70,7 @@ Cách Blockchain sử dụng các loại hàm hash
 Vai trò và cách hoạt động của chữ ký số
 Các cơ chế đồng thuận phổ biến như Proof of Work (PoW), Proof of Stake (PoS), và Ouroboros-dPoS
 Dưới đây là một số hình ảnh từ buổi chia sẻ:
-https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/1/7/17ad01da756d5357437bff8b7e26f0a51a844e5f.jpeg
+
 ![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/1/7/17ad01da756d5357437bff8b7e26f0a51a844e5f.jpeg)
 
 ![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/1/b/1b8e0c9838f08ecfa4fc83bc5ee63db010004ab1.jpeg)
