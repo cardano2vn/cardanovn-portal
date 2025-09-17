@@ -70,12 +70,12 @@ Cách Blockchain sử dụng các loại hàm hash
 Vai trò và cách hoạt động của chữ ký số
 Các cơ chế đồng thuận phổ biến như Proof of Work (PoW), Proof of Stake (PoS), và Ouroboros-dPoS
 Dưới đây là một số hình ảnh từ buổi chia sẻ:
+https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/1/7/17ad01da756d5357437bff8b7e26f0a51a844e5f.jpeg
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/1/7/17ad01da756d5357437bff8b7e26f0a51a844e5f.jpeg)
 
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/1/7/17ad01da756d5357437bff8b7e26f0a51a844e5f.jpeg)
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/1/b/1b8e0c9838f08ecfa4fc83bc5ee63db010004ab1.jpeg)
 
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/1/b/1b8e0c9838f08ecfa4fc83bc5ee63db010004ab1.jpeg)
-
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/6/6/66649f0be5b970300e3521882ce95bd262ec5b69.jpeg)
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/6/6/66649f0be5b970300e3521882ce95bd262ec5b69.jpeg)
 
 
 
@@ -101,9 +101,9 @@ Khái niệm về phần thưởng khối và phí giao dịch, vai trò của c
 
 Ông Cao Xuân Trường từ Cardano2vn đang giải thích về Transaction Models.
 
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/d/1/d106b8b16c026ad5c477b268c0cd369a4c1b0a34.jpeg)
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/d/1/d106b8b16c026ad5c477b268c0cd369a4c1b0a34.jpeg)
 
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/0/1/01e3e362e65e644e9b42900df826070581d28f8e.jpeg)
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/0/1/01e3e362e65e644e9b42900df826070581d28f8e.jpeg)
 
 
 Kết Luận
@@ -130,11 +130,11 @@ Xem xét các giải pháp lớp thứ hai được thiết kế để cải thi
 Hình Ảnh Từ Buổi Học
 Các giảng viên tham gia thảo luận về các giải pháp khả năng mở rộng Layer 1 và Layer 2.
 
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/6/9/6954b12516e1ad8a05106fc250123b58f0de9459.jpeg)
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/6/9/6954b12516e1ad8a05106fc250123b58f0de9459.jpeg)
 
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/1/1/11aa57947f0e39c0e37a8b0d74cc5af71744091c.jpeg)
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/1/1/11aa57947f0e39c0e37a8b0d74cc5af71744091c.jpeg)
 
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/2/b/2bfc8c6c2af6f5f64379a21c49565854ea7662d6.jpeg)
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/2/b/2bfc8c6c2af6f5f64379a21c49565854ea7662d6.jpeg)
 
 Kết Luận
 Buổi học thứ tư của khóa học Blockchain cơ bản đã cung cấp những hiểu biết quý giá về các chủ đề nâng cao liên quan đến kiến trúc Web3 và các giải pháp khả năng mở rộng. Chúng tôi hy vọng rằng kiến thức này sẽ nâng cao hiểu biết và khả năng giảng dạy về công nghệ blockchain của các giảng viên.
@@ -163,15 +163,15 @@ Các cơ chế thưởng của Cardano, cách chúng khuyến khích người th
 
 **Dưới đây là một số hình ảnh của lớp học**
 
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/1/b/1ba1a71e81ab44dadb98e3aff5bb5f6807a1cc6d.jpeg)
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/1/b/1ba1a71e81ab44dadb98e3aff5bb5f6807a1cc6d.jpeg)
 
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/d/c/dcab7305f042249f21137c5a4c97e7339d8cc764.jpeg)
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/d/c/dcab7305f042249f21137c5a4c97e7339d8cc764.jpeg)
 
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/f/4/f420b60312a4bf33af2f0d2091ce64d7d9d708ca.jpeg)
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/f/4/f420b60312a4bf33af2f0d2091ce64d7d9d708ca.jpeg)
 
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/2/a/2a5f408bb9a0a281bbb13adbd89f883a7132e26d.jpeg)
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/2/a/2a5f408bb9a0a281bbb13adbd89f883a7132e26d.jpeg)
 
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/1/4/14d93f54e9e9fb84475274069f974a3f0ee6e86e.jpeg)
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/1/4/14d93f54e9e9fb84475274069f974a3f0ee6e86e.jpeg)
 
 
 **Kết Luận**
@@ -203,11 +203,11 @@ Buổi học đã có nhiều thảo luận sâu về địa chỉ ví trên Car
 
 Một số hình ảnh của buổi chia sẻ:
 
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/f/2/f2833adb9bd9186ca4aaae61f828b86b9cad3ae5.jpeg)
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/f/2/f2833adb9bd9186ca4aaae61f828b86b9cad3ae5.jpeg)
 
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/4/1/416af7a709ab8b0b1bab94d1cbecd128c86e5d67.jpeg)
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/4/1/416af7a709ab8b0b1bab94d1cbecd128c86e5d67.jpeg)
 
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/b/b/bbab11d84c65c6007d138cc588729b1c35466266.jpeg)
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/b/b/bbab11d84c65c6007d138cc588729b1c35466266.jpeg)
 
 Cardano2vn xin chân thành cảm ơn tất cả các giảng viên đã tích cực tham gia và gắn bó trong việc nâng cao hiểu biết về Blockchain Cardano.
 
@@ -237,13 +237,13 @@ Giới thiệu về các ứng dụng phi tập trung và sàn giao dịch phi t
 Một Số Hình Ảnh Của Buổi Chia Sẻ
 
 
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/6/8/6851f44ec2edc9179158dd79e53b06e134099878.jpeg)
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/6/8/6851f44ec2edc9179158dd79e53b06e134099878.jpeg)
 
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/2/3/23dbb23434479e5ddcbe3bcc2ba2629f7a61c93f.jpeg)
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/2/3/23dbb23434479e5ddcbe3bcc2ba2629f7a61c93f.jpeg)
 
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/9/6/9690fc01cc86ceb660a3e9a1e4e511f0c69195f5.jpeg)
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/9/6/9690fc01cc86ceb660a3e9a1e4e511f0c69195f5.jpeg)
 
-![](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/c/8/c8b8b3f33ea76be476afb5b930ca3fc42c45ee2d.jpeg)
+![](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/c/8/c8b8b3f33ea76be476afb5b930ca3fc42c45ee2d.jpeg)
 
 Cardano2vn xin chân thành cảm ơn sự tham gia tích cực của các giảng viên và hy vọng rằng các buổi học sẽ giúp ích cho việc giảng dạy và nghiên cứu về Blockchain trong tương lai.
 
@@ -280,13 +280,13 @@ Học cách tạo token bằng các policy đơn giản như native scripts, cũ
 
 **Một Số Hình Ảnh Của Buổi Chia Sẻ**
 
-![6149880039995456529|1000x467](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/d/9/d9b022fd93a963bf95ee1b3b1f8f44f9c8e22643.jpeg)
+![6149880039995456529|1000x467](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/d/9/d9b022fd93a963bf95ee1b3b1f8f44f9c8e22643.jpeg)
 
-![6149880039995456526|1000x467](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/a/d/ad5ff2a533c553c44e54e5049b807f8f95ef19e9.jpeg)
+![6149880039995456526|1000x467](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/a/d/ad5ff2a533c553c44e54e5049b807f8f95ef19e9.jpeg)
 
-![6149880039995456521|1000x467](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/8/e/8e209d393a03d7882c49cd8d11d594799afbef2d.jpeg)
-![6149880039995456520|1000x467](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/9/0/9004cb980cc0004dc8d6f0fc80aac1677997dde9.jpeg)
-![6149880039995456519|1000x467](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/9/0/9004cb980cc0004dc8d6f0fc80aac1677997dde9.jpeg)
+![6149880039995456521|1000x467](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/8/e/8e209d393a03d7882c49cd8d11d594799afbef2d.jpeg)
+![6149880039995456520|1000x467](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/9/0/9004cb980cc0004dc8d6f0fc80aac1677997dde9.jpeg)
+![6149880039995456519|1000x467](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/9/0/9004cb980cc0004dc8d6f0fc80aac1677997dde9.jpeg)
 
 Cardano2vn xin chân thành cảm ơn sự tham gia tích cực của các giảng viên và học viên trong buổi học. Chúng tôi hy vọng rằng những kiến thức và kỹ năng được chia sẻ hôm nay sẽ giúp ích cho việc giảng dạy và nghiên cứu về Blockchain trong tương lai.
 
@@ -309,9 +309,9 @@ Cardano2vn đã chia sẻ về cách các nhà phát triển thường sử dụ
 
 **Một Số Hình Ảnh từ Buổi Học**
 
-![CBCA9|1000x512](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/d/6/d679ed2029163fb4802b0d8eea4141ed2afb7d24.jpeg)
-![6156575894009922017|1000x467](https://global.discourse-cdn.com/business4/uploads/cardano/optimized/3X/3/9/3976d7cb283e975fc71df5254afc0307241be676_2_1000x467.jpeg)
-![6156575894009922016|1000x467](https://global.discourse-cdn.com/business4/uploads/cardano/optimized/3X/c/2/c2b6b732b0b39fdd56d149bb95f8be707b619bd4_2_1000x467.jpeg)
+![CBCA9|1000x512](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/d/6/d679ed2029163fb4802b0d8eea4141ed2afb7d24.jpeg)
+![6156575894009922017|1000x467](https://us1.discourse-cdn.com/flex023/uploads/cardano/optimized/3X/3/9/3976d7cb283e975fc71df5254afc0307241be676_2_1000x467.jpeg)
+![6156575894009922016|1000x467](https://us1.discourse-cdn.com/flex023/uploads/cardano/optimized/3X/c/2/c2b6b732b0b39fdd56d149bb95f8be707b619bd4_2_1000x467.jpeg)
 
 
 Cardano2vn xin chân thành cảm ơn sự tham gia và tích cực học tập của các giảng viên. Chúng tôi hy vọng rằng những kiến thức và kỹ năng được chia sẻ trong buổi học này sẽ giúp các giảng viên ứng dụng và phát triển các dự án blockchain trong tương lai.
@@ -332,13 +332,13 @@ Chi tiết nội dung khóa học [có tại đây](https://docs.google.com/spre
 
 Dưới đây là một số hình ảnh của khóa học và buổi trao chứng nhận, giải thưởng cho các thầy/cô xuất sắc:
 
-![6122863149515390738|1000x562](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/6/9/6954b12516e1ad8a05106fc250123b58f0de9459.jpeg)
-![6134375001898466774|1000x467](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/b/b/bbab11d84c65c6007d138cc588729b1c35466266.jpeg)
-![6143005506751545029|1000x467](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/8/7/87b158b665228ea9875be78db758e2a2768b9305.jpeg)
-![6149880039995456526|1000x467](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/a/d/ad5ff2a533c553c44e54e5049b807f8f95ef19e9.jpeg)
-![6129829238577152410|1000x467](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/8/a/8a86866d7c977705ca0c63a8e695c0b57d5dbde9.jpeg)
-![6149880039995456517|1000x467](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/d/3/d33407e6af9b631e3d9cc640b3b936ed529afbbd.jpeg)
-![6156575894009921999|1000x467](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/c/3/c356630b15a9c1450c4515f812eb06795bad1aa9.jpeg)
+![6122863149515390738|1000x562](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/6/9/6954b12516e1ad8a05106fc250123b58f0de9459.jpeg)
+![6134375001898466774|1000x467](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/b/b/bbab11d84c65c6007d138cc588729b1c35466266.jpeg)
+![6143005506751545029|1000x467](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/8/7/87b158b665228ea9875be78db758e2a2768b9305.jpeg)
+![6149880039995456526|1000x467](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/a/d/ad5ff2a533c553c44e54e5049b807f8f95ef19e9.jpeg)
+![6129829238577152410|1000x467](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/8/a/8a86866d7c977705ca0c63a8e695c0b57d5dbde9.jpeg)
+![6149880039995456517|1000x467](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/d/3/d33407e6af9b631e3d9cc640b3b936ed529afbbd.jpeg)
+![6156575894009921999|1000x467](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/c/3/c356630b15a9c1450c4515f812eb06795bad1aa9.jpeg)
 
 
 
@@ -346,9 +346,9 @@ Dưới đây là một số hình ảnh của khóa học và buổi trao chứ
 
 Sau khóa học, các thầy/cô đã đạt thành tích cao trong các bài kiểm tra qua nền tảng giáo dục CBCA của Cardano Foundation và đã nhận được chứng chỉ. Dưới đây là một vài hình ảnh chứng chỉ mà các thầy/cô đã đạt được:
 
-![CaoLuyen|1000x697](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/a/4/a4ca1a8193dc4d57dd297114664ff92f5cc6ac80.jpeg)
-![Chung Trinh|999x707](https://global.discourse-cdn.com/business4/uploads/cardano/optimized/3X/5/1/510664fd2c9ef1d8fdc648990238266f9eb0b232_2_999x707.jpeg)
-![6163337572693163255|825x579](https://global.discourse-cdn.com/business4/uploads/cardano/original/3X/b/c/bc0c3091cab7f24c79138d6b663d4d17027a2a75.jpeg)
+![CaoLuyen|1000x697](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/a/4/a4ca1a8193dc4d57dd297114664ff92f5cc6ac80.jpeg)
+![Chung Trinh|999x707](https://us1.discourse-cdn.com/flex023/uploads/cardano/optimized/3X/5/1/510664fd2c9ef1d8fdc648990238266f9eb0b232_2_999x707.jpeg)
+![6163337572693163255|825x579](https://us1.discourse-cdn.com/flex023/uploads/cardano/original/3X/b/c/bc0c3091cab7f24c79138d6b663d4d17027a2a75.jpeg)
 
 
 **Lời Kết**
